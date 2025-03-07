@@ -1,0 +1,50 @@
+[
+  {
+    "year": "2015",
+    "title": "Studenten - Nacka Gymnasium",
+    "description": "Handels & Administrations-programmet. Det jag tar med mig från gymnasiet är grundläggande kunskap inom matematik, biologi, svenska, engelska och företagsekonomi.",
+    "accentColor": "#41516C"
+  },
+  {
+    "year": "2016",
+    "title": "SATS - Personlig Tränare",
+    "description": "Min passion för träning ledde mig till att bli personlig tränare på SATS. Under min tid som PT fick jag lära mig att leda individer på ett pedagogiskt sätt. Det var även här min passion för sälj startade.",
+    "accentColor": "#FBCA3E"
+  },
+  {
+    "year": "2017",
+    "title": "SATS - Säljare",
+    "description": "Min passion för sälj växte och växte och tillslut övergick jag till att bli säljare hos SATS istället för att jobba som PT. Under min tid som säljare lärde jag mig grunderna för behovsstyrd försäljning. Efter ett år blev jag nominerad till årets säljare på grund av en stark arbetsmoral, höga ambitioner och exceptionella försäljningsfärdigheter.",
+    "accentColor": "#E24A68"
+  },
+  {
+    "year": "2019",
+    "title": "Egenföretagare",
+    "description": "Under min tid som säljare väcktes en passion för entreprenörskap och jag valde att starta med affärskonceptet Amazon FBA. Konceptet gick ut på att kapitalisera på vissa typer av affärsmöjligheter inom vissa marknader på Amazon. Under tiden som egenföretagare samarbetade jag med fabriker i Kina, skötte internationell frakt, och genomförde marknadsföringskampanjer.",
+    "accentColor": "#1B5F8C"
+  },
+  {
+    "year": "2020",
+    "title": "Simple Sign - Säljare",
+    "description": "Efter att ha lagt ner företaget började jag jobba med sälj på Simple Sign, där jag arbetade med några av Sveriges största företag och utvecklade kreativa samarbeten med kunder för att maximera värdeskapandet.",
+    "accentColor": "#4CADAD"
+  },
+  {
+    "year": "2020-2023",
+    "title": "Innovationsprogrammet - Mälardalen Universitet",
+    "description": "Efter att ha jobbat som säljare i 6 månader bestämde jag mig för att börja studera, ville jobba med innovationsarbete. På MDU växte jag mycket både personligen och intellektuellt.",
+    "accentColor": "#FBCA3E"
+  },
+  {
+    "year": "2023-2024",
+    "title": "Nordiske Medier - Säljare",
+    "description": "Mot slutet av utbildningen jobbade jag med att hjälpa företag ligga steget före i sina branscher genom Nordiske Mediers specialiserade branschtidningar. Jag spelade en nyckelroll i att effektivisera försäljningsprocessen och bidrog till nya försäljningsrekord.",
+    "accentColor": "#41516C"
+  },
+  {
+    "year": "2024-Nu!",
+    "title": "Chas Academy - .NET Fullstackutvecklare",
+    "description": "Just nu studerar jag till att bli mjukvaruingejör och utvecklar ett sidoprojekt med stor kommersiell potential.",
+    "accentColor": "#E24A68"
+  }
+]
