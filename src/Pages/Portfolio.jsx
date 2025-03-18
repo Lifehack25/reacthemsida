@@ -27,7 +27,7 @@ const Portfolio = () => {
           {/* Befintliga projekt */}
           <a href="#modal1" className="card-link">
             <div className="card1">
-              <img src="drinkly.png" alt="Drinkly" />
+              <img src="/reacthemsida/drinkly.png" alt="Drinkly" />
               <div className="card1-content">
                 <h2 className="card1-title">Drinkly</h2>
                 <p className="card1-description">
@@ -39,7 +39,7 @@ const Portfolio = () => {
           </a>
           <a href="#modal2" className="card-link">
             <div className="card1">
-              <img src="ml2.webp" alt="Memory Locks" />
+              <img src="/reacthemsida/ml2.webp" alt="Memory Locks" />
               <div className="card1-content">
                 <h2 className="card1-title">Memory Locks (Kommer snart!)</h2>
                 <p className="card1-description">

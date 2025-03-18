@@ -5,7 +5,7 @@ const Tidslinje = () => {
   const [experience, setExperience] = useState([]);
 
   useEffect(() => {
-    fetch("/experience.json")
+    fetch("/reacthemsida/experience.json")
       .then(response => response.json())
       .then(data => setExperience(data))
       .catch(error => console.error("Error loading experience data:", error));

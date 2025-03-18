@@ -20,7 +20,7 @@ const Hem = () => {
         </div>
         <div class="intro-image-col">
           <img 
-            src="public/proffe2.png" 
+            src="/reacthemsida/proffe2.png" 
             alt="Pontus d'Orsay" 
             class="intro-image"
           />
